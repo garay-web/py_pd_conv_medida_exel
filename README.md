@@ -11,3 +11,8 @@ pip install -r requirements.txt
 ( ``` ) 👈 es importante la colocación de estas comillas cuando estamos haciendo el Readme remoto
 para tener la posibilidad de hacer un copy del remoto a la consola  del editor del archivo clonado 
 Pulsar 👉🖊 en el README.md remoto para ver como se inserta ese cuadro
+
+Una vez hecho esto, para que convierta el Exel de Cms a Pulgadas debemos ejecutar en consola
+```
+python programa_conversor.py
+```
