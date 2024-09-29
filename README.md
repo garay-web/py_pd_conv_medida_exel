@@ -8,4 +8,4 @@ Para poder ejecutar este proyecto después de clonarlo deves hacer en la carpeta
 pip install -r requirements.txt
 ```
 
-``` 👈 es importante la colocación de estas comillas para tener la posibilidad de hacer un copy del remoto a la consola  del editor del archivo clonado 
+( ``` ) 👈 es importante la colocación de estas comillas para tener la posibilidad de hacer un copy del remoto a la consola  del editor del archivo clonado 
