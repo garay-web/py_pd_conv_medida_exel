@@ -1,0 +1,5 @@
+pandas
+openpyxl
+
+# Escribir el comando _ pip install -r .\requirements.txt
+# para instalar los paquetes de _pandas y openpyxl_
